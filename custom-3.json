@@ -1,0 +1,251 @@
+{
+    "name": "Goblin Snake",
+    "traits": "Goblin",
+    "level": 1,
+    "specials": [
+        {
+            "id": "_2dw7nftstx7",
+            "name": "Goblin Breath",
+            "traits": "evocation, poison, primal",
+            "range": "",
+            "actions": "two",
+            "type": "offense",
+            "description": "Every 1d4 rounds the goblin snake can let out a disgusting belch.  Each creature within 5 feet of the goblin snake must make a DC14 Fortitude Save:\n**Success** Sickened 1 for 1 round\n**Critical Success** No effect\n**Failure** Sickened 1\n**Critical Failure** Sickened 2\n"
+        },
+        {
+            "id": "_1ha99txrr2x",
+            "name": "Snake Empathy",
+            "traits": "primal",
+            "range": "",
+            "actions": "none",
+            "type": "general",
+            "description": "The goblin snake can communicate with snakes and other similar creatures on a rudimentary level."
+        }
+    ],
+    "morespells": [],
+    "alignment": "n",
+    "size": "medium",
+    "type": "aberration",
+    "adjust": 0,
+    "description": "A gray, lipless goblin head with serpent’s fangs sits atop the sinuous black body of this greasy-scaled snake.",
+    "items": "",
+    "spellattack": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "spelldc": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "savenote": "",
+    "creature": "",
+    "speed": "30 feet, burrow 5 feet, swim 20 feet",
+    "imgurl": "https://66.media.tumblr.com/5c2b71ea8329e55ca42710708f4dc61b/tumblr_inline_p4ujzmBHVL1robfbt_500.png",
+    "spelltype": "",
+    "focuspoints": 0,
+    "cantriplevel": "",
+    "ritualtype": "",
+    "rituals": "",
+    "spells": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "constant": "",
+    "minprof": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "strength": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "dexterity": {
+        "value": 4,
+        "benchmark": "high",
+        "note": ""
+    },
+    "constitution": {
+        "value": 3,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "intelligence": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "wisdom": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "charisma": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "perception": {
+        "value": 8,
+        "benchmark": "moderate",
+        "note": "Darkvision"
+    },
+    "acrobatics": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "arcana": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "athletics": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "crafting": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "deception": {
+        "value": 6,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "diplomacy": {
+        "value": "",
+        "benchmark": "low",
+        "note": ""
+    },
+    "intimidation": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "medicine": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "nature": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "occultism": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "performance": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "religion": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "society": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "stealth": {
+        "value": 10,
+        "benchmark": "extreme",
+        "note": ""
+    },
+    "survival": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "thievery": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "lore": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": "",
+        "name": "lore"
+    },
+    "lorealt": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": "",
+        "name": "lore"
+    },
+    "ac": {
+        "value": 15,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "hp": {
+        "value": 20,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "fortitude": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "reflex": {
+        "value": 10,
+        "benchmark": "high",
+        "note": ""
+    },
+    "will": {
+        "value": 7,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "resistance": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "weakness": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "immunity": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "roadmap": "skirmisher",
+    "info": "",
+    "strikes": [
+        {
+            "id": "_omh5lapxha",
+            "name": "jaws",
+            "traits": "",
+            "attack": 7,
+            "damage": "1d6+2",
+            "type": "Melee"
+        }
+    ],
+    "languages": "Common, Goblin",
+    "tags": []
+}

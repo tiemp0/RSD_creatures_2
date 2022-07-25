@@ -1,0 +1,222 @@
+{
+    "name": "Plutivarch Dremis",
+    "traits": "Human",
+    "level": 3,
+    "specials": [],
+    "morespells": [],
+    "alignment": "ne",
+    "size": "medium",
+    "type": "humanoid",
+    "adjust": 0,
+    "description": "",
+    "items": "2 Elixir of Life (Minor), 25sp",
+    "spellattack": {
+        "value": 9,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "spelldc": {
+        "value": 20,
+        "benchmark": "high",
+        "note": ""
+    },
+    "savenote": "",
+    "creature": "",
+    "speed": "25 feet",
+    "imgurl": "",
+    "spelltype": "Arcane",
+    "focuspoints": 0,
+    "cantriplevel": 2,
+    "ritualtype": "",
+    "rituals": "",
+    "spells": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Invisibility, Touch of Idiocy, Dispel Magic",
+        "Color Spray, Mage Armor, Magic Missile",
+        "Daze. Light, Acid Splash, Detect Magic"
+    ],
+    "constant": "",
+    "minprof": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "strength": {
+        "value": 3,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "dexterity": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "constitution": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "intelligence": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "wisdom": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "charisma": {
+        "value": 5,
+        "benchmark": "extreme",
+        "note": ""
+    },
+    "perception": {
+        "value": 6,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "acrobatics": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "arcana": {
+        "value": 9,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "athletics": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "crafting": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "deception": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "diplomacy": {
+        "value": 10,
+        "benchmark": "high",
+        "note": ""
+    },
+    "intimidation": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "medicine": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "nature": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "occultism": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "performance": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "religion": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "society": {
+        "value": 9,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "stealth": {
+        "value": 7,
+        "benchmark": "low",
+        "note": ""
+    },
+    "survival": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "thievery": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "lore": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": "",
+        "name": "lore"
+    },
+    "lorealt": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": "",
+        "name": "lore"
+    },
+    "ac": {
+        "value": 18,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "hp": {
+        "value": 31,
+        "benchmark": "low",
+        "note": ""
+    },
+    "fortitude": {
+        "value": 6,
+        "benchmark": "low",
+        "note": ""
+    },
+    "reflex": {
+        "value": 9,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "will": {
+        "value": 12,
+        "benchmark": "high",
+        "note": ""
+    },
+    "resistance": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "weakness": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "immunity": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "roadmap": "spellcaster (cha)",
+    "info": "",
+    "strikes": [],
+    "tags": []
+}
