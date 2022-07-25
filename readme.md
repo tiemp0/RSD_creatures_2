@@ -13,3 +13,10 @@ For this to properly work you need the following:
 - Properly syntaxed JSON file(s) (see our examples)
 - A version file with a number (increase it to update your creatures in RSD!)
 - Add the username & repository name to your party settings (example: owner = ReadySetDice & gitname = rsd-custom-creatures)
+
+
+## Some important bits
+
+For spells to work with the https://monster.pf2.tools tool, you need to ensure you comma separate them! Furthermore, the spells are added based on a correctly spelled name.
+
+For custom Foundry creature format, ensure that the _id field **does not** match with an existing id.
