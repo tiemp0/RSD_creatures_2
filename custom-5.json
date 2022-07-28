@@ -1,0 +1,131 @@
+{
+    "_id": "PphyArSCoxkaI6IS",
+    "data": {
+        "attributes": {
+            "ac": {
+                "value": 10
+            },
+            "hardness": 20,
+            "hasHealth": true,
+            "hp": {
+                "details": "",
+                "max": 500,
+                "temp": 0,
+                "value": 500
+            },
+            "stealth": {
+                "details": "<p>+28 (expert) or DC 38 (expert) to notice the giant rune on the ceiling of the cave, which is using magic to hide it's presence. Alternatively, Detect Magic.</p>",
+                "value": 38
+            }
+        },
+        "creatureType": "",
+        "details": {
+            "description": "<p>A giant red magical rune sitting on the ceiling of Fafnheir's chamber, casting boons and penalties for friend and foe.</p>",
+            "disable": "<p>A disintegrate spell per effect that the rune is eminating, or completely destorying it will be the only wat to stop it.</p>",
+            "isComplex": true,
+            "level": {
+                "value": 19
+            },
+            "reset": "<p>No reset.</p>",
+            "routine": "<p>(3 actions) The magic flares. Each ally of Fafnheir is targeted by friendly Dispel Magic, Haste and Blur. Each opponent in the room must make the appropriate checks Slow and Fear DC 40 and it attempts a hostile Dispel Magic against them.</p>"
+        },
+        "saves": {
+            "fortitude": {
+                "saveDetail": "",
+                "value": 28
+            },
+            "reflex": {
+                "saveDetail": "",
+                "value": 22
+            },
+            "will": {
+                "saveDetail": "",
+                "value": 0
+            }
+        },
+        "source": {
+            "value": "Custom"
+        },
+        "statusEffects": [],
+        "traits": {
+            "ci": [],
+            "di": {
+                "custom": "",
+                "selected": {},
+                "value": [
+                    "critical-hits",
+                    "object-immunities",
+                    "precision"
+                ]
+            },
+            "dr": [],
+            "dv": [],
+            "rarity": "unique",
+            "size": {
+                "value": "large"
+            },
+            "traits": {
+                "custom": "",
+                "value": [
+                    "magical",
+                    "complex",
+                    "trap"
+                ]
+            }
+        }
+    },
+    "img": "systems/pf2e/icons/default-icons/hazard.svg",
+    "items": [
+        {
+            "_id": "yCvj5N1H04hmAYuS",
+            "data": {
+                "actionCategory": {
+                    "value": "offensive"
+                },
+                "actionType": {
+                    "value": "reaction"
+                },
+                "actions": {
+                    "value": null
+                },
+                "description": {
+                    "value": "<p><strong>Trigger</strong> A hostile creature enters Fafnheir's chamber</p>\n<hr />\n<p><strong>Effect</strong> The magic flairs up. Hostile creatures are targeted by it's routine. Then it rolls for initiative.</p>"
+                },
+                "requirements": {
+                    "value": ""
+                },
+                "rules": [],
+                "slug": null,
+                "source": {
+                    "value": ""
+                },
+                "traits": {
+                    "custom": "",
+                    "rarity": "common",
+                    "value": [
+                        "mental"
+                    ]
+                },
+                "trigger": {
+                    "value": ""
+                },
+                "weapon": {
+                    "value": ""
+                }
+            },
+            "img": "systems/pf2e/icons/actions/Reaction.webp",
+            "name": "Activate",
+            "sort": 100000,
+            "type": "action"
+        }
+    ],
+    "name": "Fafnheir's Lair Rune",
+    "token": {
+        "disposition": 0,
+        "height": 1,
+        "img": "systems/pf2e/icons/default-icons/hazard.svg",
+        "name": "Fafnheir's Lair Rune",
+        "width": 1
+    },
+    "type": "hazard"
+}
