@@ -1,0 +1,232 @@
+{
+    "name": "Drake",
+    "traits": "",
+    "tags": [],
+    "level": 1,
+    "specials": [],
+    "morespells": [],
+    "alignment": "cn",
+    "size": "medium",
+    "type": "humanoid",
+    "adjust": 0,
+    "description": "",
+    "items": "Spear",
+    "spellattack": {
+        "value": "6",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "spelldc": {
+        "value": 14,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "savenote": "",
+    "creature": "",
+    "speed": "30 feet",
+    "imgurl": "",
+    "spelltype": "",
+    "focuspoints": 0,
+    "cantriplevel": "",
+    "ritualtype": "",
+    "rituals": "",
+    "spells": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "constant": "",
+    "minprof": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "strength": {
+        "value": 3,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "dexterity": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "constitution": {
+        "value": 3,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "intelligence": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "wisdom": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "charisma": {
+        "value": 1,
+        "benchmark": "low",
+        "note": ""
+    },
+    "perception": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "acrobatics": {
+        "value": 3,
+        "benchmark": "terrible",
+        "note": ""
+    },
+    "arcana": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "athletics": {
+        "value": 7,
+        "benchmark": "high",
+        "note": ""
+    },
+    "crafting": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "deception": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "diplomacy": {
+        "value": 3,
+        "benchmark": "terrible",
+        "note": ""
+    },
+    "intimidation": {
+        "value": 7,
+        "benchmark": "high",
+        "note": ""
+    },
+    "medicine": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "nature": {
+        "value": 3,
+        "benchmark": "terrible",
+        "note": ""
+    },
+    "occultism": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "performance": {
+        "value": 3,
+        "benchmark": "terrible",
+        "note": ""
+    },
+    "religion": {
+        "value": 6,
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "society": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "stealth": {
+        "value": 3,
+        "benchmark": "terrible",
+        "note": ""
+    },
+    "survival": {
+        "value": 7,
+        "benchmark": "high",
+        "note": ""
+    },
+    "thievery": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "lore": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": "",
+        "name": "lore"
+    },
+    "lorealt": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": "",
+        "name": "lore"
+    },
+    "ac": {
+        "value": 16,
+        "benchmark": "high",
+        "note": ""
+    },
+    "hp": {
+        "value": "21",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "fortitude": {
+        "value": "7",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "reflex": {
+        "value": 4,
+        "benchmark": "low",
+        "note": ""
+    },
+    "will": {
+        "value": "7",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "resistance": {
+        "value": "2",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "weakness": {
+        "value": "2",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "immunity": {
+        "value": "",
+        "benchmark": "moderate",
+        "note": ""
+    },
+    "roadmap": "",
+    "info": "",
+    "strikes": [
+        {
+            "id": "_3p8f61ww12o",
+            "name": "spear",
+            "traits": "",
+            "attack": "7",
+            "damage": "1d6+2",
+            "type": "Melee"
+        }
+    ],
+    "languages": "draconic"
+}

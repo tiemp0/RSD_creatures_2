@@ -1,6 +1,6 @@
 {
     "_id": "c-fafnheirrune",
-    "data": {
+    "system": {
         "attributes": {
             "ac": {
                 "value": 10
@@ -13,6 +13,17 @@
                 "temp": 0,
                 "value": 500
             },
+            "immunities": [
+                {
+                    "type": "critical-hits"
+                },
+                {
+                    "type": "object-immunities"
+                },
+                {
+                    "type": "precision"
+                }
+            ],
             "stealth": {
                 "details": "<p>+28 (expert) or DC 38 (expert) to notice the giant rune on the ceiling of the cave, which is using magic to hide it's presence. Alternatively, Detect Magic.</p>",
                 "value": 38
@@ -48,37 +59,30 @@
         },
         "statusEffects": [],
         "traits": {
-            "ci": [],
-            "di": {
-                "custom": "",
-                "selected": {},
-                "value": [
-                    "critical-hits",
-                    "object-immunities",
-                    "precision"
-                ]
+            "attitude": {
+                "value": "hostile"
             },
-            "dr": [],
-            "dv": [],
+            "languages": {
+                "custom": "",
+                "selected": [],
+                "value": []
+            },
             "rarity": "unique",
             "size": {
                 "value": "lg"
             },
-            "traits": {
-                "custom": "",
-                "value": [
-                    "magical",
-                    "complex",
-                    "trap"
-                ]
-            }
+            "value": [
+                "magical",
+                "complex",
+                "trap"
+            ]
         }
     },
     "img": "systems/pf2e/icons/default-icons/hazard.svg",
     "items": [
         {
             "_id": "yCvj5N1H04hmAYuS",
-            "data": {
+            "system": {
                 "actionCategory": {
                     "value": "offensive"
                 },
