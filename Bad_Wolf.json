@@ -254,22 +254,4 @@
       "type": "Ranged"
     }
   ],
-  "hints": [
-    "perception",
-    "strength",
-    "dexterity",
-    "constitution",
-    "intelligence",
-    "wisdom",
-    "charisma",
-    "ac",
-    "fortitude",
-    "reflex",
-    "will",
-    "hp"
-  ],
-  "meta": {
-    "public": 1,
-    "url": "95tvFMRM"
-  }
-}
+ }
