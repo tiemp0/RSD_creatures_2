@@ -1,1 +1,276 @@
-
+{
+  "id": "eabc06662f7ffbd91df2fe54e",
+  "name": "Bad Wolf",
+  "traits": "Rougaru",
+  "tags": [],
+  "level": 2,
+  "specials": [
+    {
+      "id": "_2cpxsxyiafn",
+      "name": "Change Shape [A]",
+      "traits": "Concentrate, Polymorph, Primal, Transmutation",
+      "range": "",
+      "actions": "one",
+      "type": "general",
+      "description": "A Rougaru can use Change Shape to transform into Wolf shape. While in animal shape, you gain the effects of a 2th-level casting of Animal form spell"
+    }
+  ],
+  "morespells": [],
+  "alignment": "le",
+  "size": "medium",
+  "type": "humanoid",
+  "adjust": 0,
+  "description": "",
+  "items": "Katana. Leather Armor, Dagger, Flintlock pistol",
+  "spellattack": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "spelldc": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "savenote": "",
+  "creature": "",
+  "speed": 25,
+  "imgurl": "",
+  "spelltype": "",
+  "focuspoints": 0,
+  "cantriplevel": "",
+  "ritualtype": "",
+  "rituals": "",
+  "spells": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "constant": "",
+  "minprof": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "strength": {
+    "value": 3,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "dexterity": {
+    "value": 3,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "constitution": {
+    "value": 1,
+    "benchmark": "low",
+    "note": ""
+  },
+  "intelligence": {
+    "value": 5,
+    "benchmark": "extreme",
+    "note": ""
+  },
+  "wisdom": {
+    "value": 3,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "charisma": {
+    "value": 1,
+    "benchmark": "low",
+    "note": ""
+  },
+  "perception": {
+    "value": 11,
+    "benchmark": "high",
+    "note": ""
+  },
+  "acrobatics": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "arcana": {
+    "value": "",
+    "benchmark": "high",
+    "note": ""
+  },
+  "athletics": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "crafting": {
+    "value": 11,
+    "benchmark": "extreme",
+    "note": ""
+  },
+  "deception": {
+    "value": 7,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "diplomacy": {
+    "value": 7,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "intimidation": {
+    "value": 7,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "medicine": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "nature": {
+    "value": 5,
+    "benchmark": "low",
+    "note": ""
+  },
+  "occultism": {
+    "value": "",
+    "benchmark": "high",
+    "note": ""
+  },
+  "performance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "religion": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "society": {
+    "value": 11,
+    "benchmark": "extreme",
+    "note": ""
+  },
+  "stealth": {
+    "value": 7,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "survival": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "thievery": {
+    "value": 11,
+    "benchmark": "extreme",
+    "note": ""
+  },
+  "lore": {
+    "value": 7,
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore Underworld"
+  },
+  "lorealt": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": "",
+    "name": "lore"
+  },
+  "ac": {
+    "value": 17,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "hp": {
+    "value": 30,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "fortitude": {
+    "value": 5,
+    "benchmark": "low",
+    "note": ""
+  },
+  "reflex": {
+    "value": 8,
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "will": {
+    "value": 11,
+    "benchmark": "high",
+    "note": ""
+  },
+  "resistance": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "weakness": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "immunity": {
+    "value": "",
+    "benchmark": "moderate",
+    "note": ""
+  },
+  "roadmap": "skill paragon (int)",
+  "info": "",
+  "strikes": [
+    {
+      "id": "_qcq3s6tsqg",
+      "name": "Katana",
+      "traits": "Deadly d8, Two-Hand 1d10, Uncommon, Versatile P",
+      "attack": 9,
+      "damage": "1d6+3 slashing",
+      "type": "Melee"
+    },
+    {
+      "id": "_1nrfy6xmty6",
+      "name": "Dagger",
+      "traits": "Agile, Finesse, Thrown 10 ft., Versatile S",
+      "attack": 9,
+      "damage": "1d6+3 piercing",
+      "type": "Melee"
+    },
+    {
+      "id": "_7muukvis8f",
+      "name": "Flintlock Pistol",
+      "traits": "Concussive, Fatal d8, Uncommon",
+      "attack": 9,
+      "damage": "1d6+3 bludgeoning",
+      "type": "Ranged"
+    }
+  ],
+  "hints": [
+    "perception",
+    "strength",
+    "dexterity",
+    "constitution",
+    "intelligence",
+    "wisdom",
+    "charisma",
+    "ac",
+    "fortitude",
+    "reflex",
+    "will",
+    "hp"
+  ],
+  "meta": {
+    "public": 1,
+    "url": "95tvFMRM"
+  }
+}
