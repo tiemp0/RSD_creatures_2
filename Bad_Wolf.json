@@ -235,7 +235,7 @@
       "attack": 9,
       "damage": "1d6+3 slashing",
       "type": "Melee"
-    },
+    }
     {
       "id": "_1nrfy6xmty6",
       "name": "Dagger",
@@ -243,7 +243,7 @@
       "attack": 9,
       "damage": "1d6+3 piercing",
       "type": "Melee"
-    },
+    }
     {
       "id": "_7muukvis8f",
       "name": "Flintlock Pistol",
